@@ -41,7 +41,7 @@ exports.deleted=(req,res)=>{
         }
 
         res.json({
-            message:"ลบบทความเรียบร้อย"
+            message:"ลบบทความเรียบร้อย."
         })
     })
 }
